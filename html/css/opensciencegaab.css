@@ -21,7 +21,7 @@
 
 @page :first {
   size: 159mm 229mm;
-  background: url(https://tibhannover.github.io/Open-Science-Guides-Collection/html/images/cover.png);
+  background: url(https://github.com/sabrinagaab/Open-Science-Guides-Collection/edit/main/html/images/covergaab.png);
   background-size: 159mm 229mm;
   display: flex;
   align-items: center;
@@ -37,7 +37,7 @@
     font-family:"Comfortaa", sans-serif;
     font-weight: 700;
     font-size: 40pt;
-    color: blue;
+    color: grey;
     line-height: 1.6;
     text-align: center;
     margin-top: -240mm;
@@ -118,7 +118,7 @@
   position: absolute;
   width: 100%;
   height: 100%;
-  background-image: url("/images/cover.png");
+  background-image: url("/images/covergaab.png");
   background-repeat: no-repeat;
   background-size: cover;
   top: -20mm;
