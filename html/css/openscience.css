@@ -325,11 +325,10 @@ nav li a::after {
 }*/
 .csl-entry, .fnlist p {
   font-family: "Mulish", sans-serif;
-  font-size:  9.5pt;
+  font-size:  10.5pt;
   line-height: 15pt;
-  margin-bottom: 9pt;
-  letter-spacing: 0.2pt;
-  word-spacing: 0.2pt;
+  margin-bottom: 15pt;
+  font-style: italic;
 }
 
 
@@ -814,6 +813,22 @@ ol li ol li {
   margin-top: 5pt;
   margin-bottom: 5pt;
 }
+
+ #H870315, #H8244312, #H480694, #H4807510 {
+	 font-size: 24pt;
+	color: #2888dc;
+  font-weight: 600;
+  margin-bottom: 2em;
+  margin-top: 1em;
+  page-break-inside: avoid;
+  page-break-after: avoid;
+  text-align: left;
+  letter-spacing: 0pt;
+ }
+ 
+ #fn1, #fn2, #fn3, #fn4 {
+	 
+ }
 
 /*ol {
     counter-reset: foo;
