@@ -837,7 +837,8 @@ ol li ol li {
  }
 
 #begin {
-	background-color: #63d1ec;
+	background-color: #3c7a9e;
+	border-radius: 5px;
 	padding: 5px;
 	margin-top: 15px;
 	text-align: left;
