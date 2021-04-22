@@ -807,6 +807,11 @@ ol li {
   margin-bottom: 0.5em;
 }
 
+ol li ol li {
+	text-align: right;
+	font-style: italic;
+}
+
 /*ol {
     counter-reset: foo;
     display: table;
