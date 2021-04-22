@@ -1054,7 +1054,7 @@ h2 + p /* h3+p*/ {
   text-align: center;
   font-family: "Mulish", helvetica neue, arial, sans-serif;
   font-size: 9pt;
-  font-style: italic;
+  font-style: normal;
 }
 
 /* running headers locations */
