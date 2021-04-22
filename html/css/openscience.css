@@ -828,8 +828,10 @@ ol li ol li {
   letter-spacing: 0pt;
  }
  
- #fn1, #fn2, #fn3, #fn4 {
-	 
+#_5_0, #_1_0, #_2_0, #_3_0, #_4_0 {
+	text-decoration: underline;
+	text-decoration-style: dotted; 
+	text-decoration-color: orchid;
  }
 
 /*ol {
