@@ -574,7 +574,7 @@ blockquote  p.att { text-align: right; }
 h1 {
   font-family: "Comfortaa", sans-serif;
   font-size: 24pt;
-  color: #000;
+  color: #70ceff;
   font-weight: 600;
   line-height: 1.6;
   margin-bottom: 4em;
@@ -588,7 +588,7 @@ h1 {
   -epub-hyphens: none;
   hyphens: none;
   letter-spacing: 0pt;
-  word-spacing: 1px;
+  word-spacing: 10px;
 }
 
 h1 strong { font-weight: normal;}
