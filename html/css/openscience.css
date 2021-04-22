@@ -34,7 +34,7 @@
   @top-right { content: normal;}
   @top-center {
     content: env(doc-title);
-    font-family:"mulish", helvetica neue;
+    font-family:"mulish", arial;
     font-weight: 500;
     font-size: 38pt;
     color: #3c7a9e;
