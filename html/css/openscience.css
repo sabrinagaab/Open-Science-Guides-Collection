@@ -836,6 +836,17 @@ ol li ol li {
   text-decoration-color: orchid;
  }
 
+#begin {
+	background-color: #3c7a9e;
+	padding: 5px;
+	margin-top: 15px;
+	text-align: left;
+	float: left;}
+
+#begin p {
+	font-family:"mulish", arial;
+	color: #fffff;}
+
 /*ol {
     counter-reset: foo;
     display: table;
@@ -1075,5 +1086,5 @@ ol.upper-latin {
   @page {
     size: 152mm 229mm;
   }
-
+	
 }
