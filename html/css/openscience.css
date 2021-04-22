@@ -845,7 +845,10 @@ ol li ol li {
 
 #begin p {
 	font-family:"mulish", arial;
-	color: #fffff;}
+	font-size: 10pt;
+	padding: 0pt;
+	margin:0pt;
+	color: white;}
 
 /*ol {
     counter-reset: foo;
