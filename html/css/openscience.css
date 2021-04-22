@@ -643,11 +643,13 @@ h5 {
   page-break-inside: avoid;
   page-break-after: avoid;
 }
+
 hr {
     border: 0;
     height: 1px;
     background: #D0D0D0;
-    margin: 2em 0;
+    margin-top: 4em;
+    margin-bottom: 1em;
     /*background-image: linear-gradient(to right, #ccc, #333, #ccc);*/
     }
 
