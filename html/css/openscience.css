@@ -406,7 +406,7 @@ nav li a::after {
 
 p {
   font-family: Comfortaa", sans-serif;
-  font-size:  9.5pt; /* 0.8837rem */
+  font-size:  8pt; /* 0.8837rem */
   line-height: 15pt; /* 1.3954rem */
   margin-bottom: 0pt;
   letter-spacing: 0.2pt;
@@ -807,12 +807,12 @@ ol li {
 }
 
 ol li ol li {
-	text-align: left;
-	font-weight: 200;
-    	color: #000000;
-	font-size: 8pt;
-  	margin-top: 500pt;
-  	margin-bottom: 5pt;
+  text-align: left;
+  font-style: bold;
+  color: #000000;
+  font-size: 10pt;
+  margin-top: 5pt;
+  margin-bottom: 5pt;
 }
 
 /*ol {
