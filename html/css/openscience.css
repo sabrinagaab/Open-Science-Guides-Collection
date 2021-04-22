@@ -805,11 +805,13 @@ ul {
 }
 ol li {
   margin-bottom: 0.5em;
+  font-color: #3d3939; 
 }
 
 ol li ol li {
-	text-align: right;
-	font-style: italic;
+	text-align: left;
+	font-style: bold;
+    	color: #000000;
 }
 
 /*ol {
