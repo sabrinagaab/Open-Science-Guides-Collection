@@ -49,7 +49,7 @@
   margin-right: 20mm;
   @top-left {
     content: env(doc-title);
-    font-family: "Mulish", helvetica neue, arial, sans-serif;
+    font-family:"mulish", arial;
     font-weight: normal;
     font-style: italic;
     font-size: 9pt;
@@ -65,7 +65,7 @@
   }
   @bottom-left {
     content: counter(page);
-    font-family: "Mulish", helvetica neue, arial, sans-serif;
+    font-family:"mulish", arial;
     font-weight: normal;
     font-style: italic;
     font-size: 9pt;
@@ -78,7 +78,7 @@
   margin-right: 15mm;
   @top-right {
      content: env(doc-title); /*env(pub-title)*/
-     font-family: "Mulish", helvetica neue, arial, sans-serif;
+     font-family:"mulish", arial;
      font-weight: normal;
      font-style: italic;
      font-size: 9pt;
@@ -94,7 +94,7 @@
   }
   @bottom-right {
     content: counter(page);
-    font-family: "Mulish", helvetica neue, arial, sans-serif;
+    font-family:"mulish", arial;
     font-weight: normal;
     font-style: italic;
     font-size: 9pt;
@@ -229,7 +229,7 @@ body {
 }
 
 html {
-  font-family: "Mulish", helvetica neue, arial, sans-serif;
+  font-family:"mulish", arial;
   font-weight: normal;
   font-size: 10.75pt;
   color: black;
@@ -280,7 +280,7 @@ nav li a::after {
 }
 
 .article-title {
-  font-family:"Comfortaa", sans-serif;
+  font-family:"mulish", arial;
   font-size: 24pt; /* 2.233rem */
   color: #000;
   margin-bottom: 4em;
@@ -324,7 +324,7 @@ nav li a::after {
   word-spacing: 1px;
 }*/
 .csl-entry, .fnlist p {
-  font-family: "Mulish", sans-serif;
+  font-family:"mulish", arial;
   font-size:  10.5pt;
   margin-bottom: 15pt;
   font-style: italic;
@@ -389,14 +389,14 @@ nav li a::after {
 
 .logo p {
  color: black;
- font-family: Comfortaa", sans-serif;
+ font-family:"mulish", arial;
   font-size: 8pt;
   font-weight: 300;
   text-align: center;
 }
 .logo2 p {
  color: black;
- font-family: "Comfortaa", helvetica neue, arial, sans-serif;
+ font-family:"mulish", arial;
   font-size: 8pt;
   line-height: 12pt;
   font-weight: 300;
@@ -406,7 +406,7 @@ nav li a::after {
 
 
 p {
-  font-family: Comfortaa", sans-serif;
+  font-family:"mulish", arial;
   font-size:  8pt; /* 0.8837rem */
   line-height: 15pt; /* 1.3954rem */
   margin-bottom: 0pt;
@@ -432,7 +432,7 @@ p:first-of-type {
 }
 
 .Kolophon p {
-  font-family: "Mulish", helvetica neue, arial, sans-serif;
+  font-family:"mulish", arial;
   font-size:8pt;
 }
 
@@ -479,7 +479,7 @@ table li strong,
 table li .bold,
 table li .Bold,
 table li b {
-  font-family: "Mulish", helvetica neue, arial, sans-serif;
+  font-family:"mulish", arial;
   font-weight: 700;
 }
 
@@ -510,7 +510,7 @@ strong em {
 }
 
 var {
-  font-family: "Comfortaa", helvetica neue, arial, sans-serif;
+  font-family:"mulish", arial;
   font-weight: normal;
 }
 
@@ -537,7 +537,7 @@ blockquote {
   display: block;
   width: 80%;
   position: relative;
-  font-family: "Mulish", helvetica neue, arial, sans-serif;
+  font-family:"mulish", arial;
   font-size:  11pt; /* 1.023rem */
   vertical-align: baseline;
   margin-top: 9pt;
@@ -549,7 +549,7 @@ blockquote {
 }
 
 blockquote:before {
-  font-family: Comfortaa", sans-serif;
+  font-family:"mulish", arial;
   content: "“";
   font-size: 4em;
   left: -45px;
@@ -573,7 +573,7 @@ blockquote strong {
 blockquote  p.att { text-align: right; }
 
 h1 {
-  font-family: "Comfortaa", sans-serif;
+  font-family:"mulish", arial;
   font-size: 24pt;
   color: #2888dc;
   font-weight: 600;
@@ -593,13 +593,13 @@ h1 {
 h1 strong { font-weight: normal;}
 
 h2, h2 strong, h1.article-bibliography-header  {
-font-family: "Comfortaa", helvetica neue, arial, sans-serif;
+font-family:"mulish", arial;
 font-size: 16pt;
 color: #000;
 line-height: 1.5;
 text-align: left;
 line-height: 1.5;
-font-family: "Comfortaa", helvetica neue, arial, sans-serif;
+font-family:"mulish", arial;
 text-transform: none;
 font-weight: 600;
 margin-top: 20pt;
@@ -612,7 +612,7 @@ h3, h3 strong,
 h4, h4 strong,
 h5,
 h6 {
-  font-family: "Comfortaa", helvetica neue, arial, sans-serif;
+  font-family:"mulish", arial;
   margin-top: 1.5em;
   color: #000;
   font-weight: 600;
@@ -636,7 +636,7 @@ h4 {
 }
 
 h5 {
-  font-family: "Comfortaa", helvetica neue, arial, sans-serif;
+  font-family:"mulish", arial;
   font-weight: 500;
   font-size: 9pt;
   margin-top: 20pt;
@@ -674,7 +674,7 @@ h1:before {
   font-size: 9.5pt;
   line-height: 10.8pt;
   list-style-position: outside;
-  font-family: "Mulish", helvetica neue, arial, sans-serif;
+  font-family:"mulish", arial;
 }
 
 .footnotes ol li p {
@@ -682,7 +682,7 @@ h1:before {
   font-size: 9.5pt;
   line-height: 10.75pt;
   word-wrap: break-word;
-  font-family: "Mulish", helvetica neue, arial, sans-serif;
+  font-family:"mulish", arial;
 }
 
 .footnotes ol li p a {
@@ -694,7 +694,7 @@ li[id*="fn"] {
   text-indent: 0;
   font-size: 9.5pt;
   margin-left: 1.3pc;
-  font-family: "Mulish", helvetica neue, arial, sans-serif;
+  font-family:"mulish", arial;
 }
 
 a.footnoteRef {
@@ -720,7 +720,7 @@ figure img {
 
 
 figure figcaption {
-  font-family: "Mulish", helvetica neue, arial, sans-serif;
+  font-family:"mulish", arial;
   margin-top: 0;
   font-style: normal;
   color: black;
@@ -862,7 +862,7 @@ ol li::before {
 table {
   margin: 0 auto;
   width: 99% !important;
-  font-family: "Mulish", helvetica neue, arial, sans-serif;
+  font-family:"mulish", arial;
   background-size: 8pt;
   page-break-inside: avoid;
   margin-top: 9pt;
@@ -924,7 +924,7 @@ table li,
 table ol {
   font-size: 8pt;
   margin: 0;
-  font-family: "Mulish", helvetica neue, arial, sans-serif;
+  font-family:"mulish", arial;
   text-align: left;
   text-indent: 0;
 }
@@ -1054,7 +1054,7 @@ h2 + p /* h3+p*/ {
   position: absolute;
   bottom: 8mm;
   text-align: center;
-  font-family: "Mulish", helvetica neue, arial, sans-serif;
+  font-family:"mulish", arial;
   font-size: 9pt;
   font-style: normal;
 }
