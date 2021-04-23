@@ -781,7 +781,7 @@ ul {
   margin-right: 0;
   padding-left: 25px;
   font-size:  9.5pt;
-  line-height: 15pt;
+  line-height: 20pt;
   hyphens: none;
 }
 
@@ -804,6 +804,7 @@ ul {
   line-height: 15pt;
   hyphens: none;
 }
+
 ol li {
   margin-bottom: 0.5em;
   font-color: #3d3939; 
@@ -837,7 +838,7 @@ ol li ol li {
  }
 
 #begin {
-	background-color: #3c7a9e;
+	background-color: #e0e1e2;
 	border-radius: 5px;
 	padding: 5px;
 	margin-top: 15px;
@@ -849,7 +850,19 @@ ol li ol li {
 	font-size: 9.5pt;
 	padding: 0pt;
 	margin:0pt;
-	color: #ffffff;}
+	color: #54585d;}
+	
+.article-body p {
+  font-family:"mulish", arial;
+  font-size:  10pt; /* 0.8837rem */
+  line-height: 20pt; /* 1.3954rem */
+  margin-bottom: 0pt;
+  text-align: center;
+  letter-spacing: 0.2pt;
+  word-spacing: 0.2pt;
+  orphans: 2;
+  widows: 2;
+}
 
 /*ol {
     counter-reset: foo;
@@ -858,7 +871,6 @@ ol li ol li {
     margin: 1em 0;
     padding-left: 1.9em;
 }
-
 ol li {
     list-style: none;
     counter-increment: foo;
@@ -866,7 +878,6 @@ ol li {
     margin: 0;
     padding: 0;
 }
-
 ol li::before {
     content: counter(foo) ".";
     display: table-cell;
