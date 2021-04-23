@@ -875,7 +875,8 @@ ol li ol li {
 	color: #54585d;}
 
 .article-bodyNew {
-	margin-top: 15px;
+	margin-top: 5px;
+	margin-bottom: 15px;
 }
 .article-bodyNew p {
   font-family:"mulish", arial;
