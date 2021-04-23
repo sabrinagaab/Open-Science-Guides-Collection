@@ -323,16 +323,36 @@ nav li a::after {
   letter-spacing: 0pt;
   word-spacing: 1px;
 }*/
-.csl-entry, .fnlist p {
+.fnlist p {
   font-family:"mulish", arial;
   font-size:  10.5pt;
   margin-bottom: 15pt;
-  font-style: italic;
+  text-decoration: none;
+  color: #54585d;
+  padding: 2px;
 }
 
-#_2_1 {
-	margin-top: 30pt;
+.csl-bib-body .csl-entry {
+  text-decoration: underline;
+  text-decoration-style: dotted; 
+  text-decoration-color: #2888dc;
+  font-family:"mulish", arial;
+  font-size:  12pt;
+  margin-bottom: 25pt;
+  color: #54585d;
+  padding: 5px;
+  font-weight: 600;
 }
+
+.fnlist {
+    background-color: #e0e1e2;
+	border-radius: 5px;
+	padding: 5px;
+	margin-top: 5px;
+	text-align: left;
+	float: left;
+}
+
 
 .image-width-100 {
     width: 99%;
@@ -834,7 +854,7 @@ ol li ol li {
 #_5_0, #_1_0, #_2_0, #_3_0, #_4_0 {
   text-decoration: underline;
   text-decoration-style: dotted; 
-  text-decoration-color: orchid;
+  text-decoration-color: #2888dc;
  }
 
 #begin {
@@ -1082,10 +1102,9 @@ h2 + p /* h3+p*/ {
   height: 13pt;
   position: absolute;
   bottom: 8mm;
-  text-align: center;
+  text-align: right-side;
   font-family:"mulish", arial;
-  font-size: 9pt;
-  font-style: normal;
+  font-size: 10pt;
 }
 
 /* running headers locations */
