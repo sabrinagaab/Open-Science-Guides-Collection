@@ -874,31 +874,23 @@ ol li ol li {
 	margin:0pt;
 	color: #54585d;}
 
-.article-bodyNew p {
-  font-family:"mulish", arial;
-  font-size:  12pt; /* 0.8837rem */
-  line-height: 20pt; /* 1.3954rem */
-  margin-bottom: 15pt;
-  text-align: center;
-  font-weight: 600;
-  text-decoration: underline;
-  text-decoration-style: dotted; 
-  text-decoration-color: #2888dc;
-}
-
-.article-bodyNew2 {
-	margin-top: 15px;
-}
 .article-bodyNew2 p {
   font-family:"mulish", sans-serif;
   font-size:  10pt; /* 0.8837rem */
   line-height: 20pt; /* 1.3954rem */
   margin-bottom: 0pt;
   text-align: left;
-  letter-spacing: 0.2pt;
-  word-spacing: 0.2pt;
-  orphans: 2;
-  widows: 2;
+}
+
+.article-bodyNew p {
+  font-family:"mulish", arial;
+  font-size:  12pt; /* 0.8837rem */
+  line-height: 20pt; /* 1.3954rem */
+  text-align: center;
+  font-weight: 600;
+  text-decoration: underline;
+  text-decoration-style: dotted; 
+  text-decoration-color: #2888dc;
 }
 
 /*ol {
