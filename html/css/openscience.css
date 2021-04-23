@@ -887,9 +887,22 @@ ol li ol li {
   font-size:  12pt; /* 0.8837rem */
   line-height: 20pt; /* 1.3954rem */
   text-align: center;
-  font-weight: 600;
-  color:white;
-  background-color: #54585d;
+  color: #54585d;
+  background-color: #e0e1e2;
+  border-radius: 5px;
+  
+}
+
+.article-bodyNew2 .article-bodyNew {
+  font-family:"mulish", arial;
+  font-size:  12pt; /* 0.8837rem */
+  line-height: 20pt; /* 1.3954rem */
+  text-align: center;
+  color: #54585d;
+  background-color: #e0e1e2;
+  border-radius: 5px;
+  padding-bottom: 5px;
+  padding-top: 10px;
   
 }
 
