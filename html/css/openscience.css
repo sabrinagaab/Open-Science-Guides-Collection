@@ -897,7 +897,7 @@ ol li ol li {
   font-family:"mulish", arial;
   font-size:  12pt; /* 0.8837rem */
   line-height: 20pt; /* 1.3954rem */
-  text-align: center;
+  text-align: left;
   color: #54585d;
   background-color: #e0e1e2;
   border-radius: 5px;
