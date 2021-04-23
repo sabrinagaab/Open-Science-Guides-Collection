@@ -851,8 +851,11 @@ ol li ol li {
 	padding: 0pt;
 	margin:0pt;
 	color: #54585d;}
-	
-.article-body p {
+
+.article-bodyNew {
+	margin-top: 15px;
+}
+.article-bodyNew p {
   font-family:"mulish", arial;
   font-size:  10pt; /* 0.8837rem */
   line-height: 20pt; /* 1.3954rem */
