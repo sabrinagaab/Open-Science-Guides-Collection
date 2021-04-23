@@ -888,9 +888,9 @@ ol li ol li {
   line-height: 20pt; /* 1.3954rem */
   text-align: center;
   font-weight: 600;
-  text-decoration: underline;
-  text-decoration-style: dotted; 
-  text-decoration-color: #2888dc;
+  color:white;
+  background-color: #54585d;
+  
 }
 
 /*ol {
