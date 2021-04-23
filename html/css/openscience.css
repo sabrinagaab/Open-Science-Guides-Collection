@@ -18,10 +18,9 @@
   margin-top: 20mm;
   margin-bottom: 20mm;
 }
-
 @page :first {
   size: 159mm 229mm;
-  background: url(https://sabrinagaab.github.io/Open-Science-Guides-Collection/html/images/cover.png);
+  background: url(https://tibhannover.github.io/Open-Science-Guides-Collection/html/images/cover.png);
   background-size: 159mm 229mm;
   display: flex;
   align-items: center;
@@ -34,13 +33,13 @@
   @top-right { content: normal;}
   @top-center {
     content: env(doc-title);
-    font-family:"mulish", arial;
-    font-weight: 500;
-    font-size: 38pt;
+    font-family:"Comfortaa", sans-serif;
+    font-weight: 700;
+    font-size: 40pt;
     color: #3c7a9e;
     line-height: 1.6;
     text-align: center;
-    margin-top: -375mm;
+    margin-top: -240mm;
   }
 }
 
