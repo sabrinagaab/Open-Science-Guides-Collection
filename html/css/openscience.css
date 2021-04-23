@@ -874,20 +874,12 @@ ol li ol li {
 	margin:0pt;
 	color: #54585d;}
 
-.article-bodyNew {
-	margin-top: 5px;
-	margin-bottom: 15px;
-}
 .article-bodyNew p {
   font-family:"mulish", arial;
   font-size:  12pt; /* 0.8837rem */
   line-height: 20pt; /* 1.3954rem */
-  margin-bottom: 0pt;
+  margin-bottom: 15pt;
   text-align: center;
-  letter-spacing: 0.2pt;
-  word-spacing: 0.2pt;
-  orphans: 2;
-  widows: 2;
   font-weight: 600;
   text-decoration: underline;
   text-decoration-style: dotted; 
