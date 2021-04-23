@@ -845,8 +845,8 @@ ol li ol li {
   font-size: 18pt;
   color: #2888dc;
   font-weight: 600;
-  margin-bottom: 2em;
-  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-top: 4em;
   page-break-inside: avoid;
   page-break-after: avoid;
   text-align: left;
